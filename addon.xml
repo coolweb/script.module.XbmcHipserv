@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.XbmcHipserv" name="Xbmc Hipserv" version="0.0.1" provider-name="Jordens Christophe">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.metahandler" version="1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Manage media library on hipserv based NAS</summary>
+    <summary lang="fr">Gérer les fichiers de votre Nas basé sur Hipserv</summary>
+    <description lang="en">The primary goal is to manage copy/paste within the NAS to improve performance</description>
+    <description lang="fr">Le but premier est de permettre la copie des fichiers directement via le NAS pour améliorer la rapidité</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>

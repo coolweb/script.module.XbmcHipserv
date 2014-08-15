@@ -1,0 +1,51 @@
+# XBMC Media Center language file
+msgid ""
+msgstr ""
+
+msgctxt "#32000"
+msgid "Bad user name and/or password"
+msgstr "Mauvais nom d'utilisateur et/ou mot de passe"
+
+msgctxt "#32001"
+msgid "Your nas is unavailable"
+msgstr "Votre Nas est inaccessible"
+
+msgctxt "#32002"
+msgid "Your are not a family member into your NAS"
+msgstr "Vous n'êtes pas un membre de la famille dans votre Nas"
+
+msgctxt "#32003"
+msgid "Error retrieving authentification token\n Reason: {0}"
+msgstr "Erreur pour recevoir le token d'authentificationn Raison: {0}"
+
+msgctxt "#32004"
+msgid "Copy done"
+msgstr "Copie effectuée"
+
+msgctxt "#32005"
+msgid "Error copy file\n Reason: {0}"
+msgstr "Erreur lors de la copien Raison: {0}"
+
+msgctxt "#32006"
+msgid "File already in clipboard"
+msgstr "Fichier déjà  dans la mémoire tampon"
+
+msgctxt "#32007"
+msgid "Files in clipboard: {0}"
+msgstr "Fichiers dans la mémoire tampon: {0}"
+
+msgctxt "#32008"
+msgid "Clipboard cleared"
+msgstr "Mémoire tampon vidée"
+
+msgctxt "#32009"
+msgid "Paste {0} elements"
+msgstr "Coller {0} élements"
+
+msgctxt "#32010"
+msgid "Copy"
+msgstr "Copier"
+
+msgctxt "#32011"
+msgid "Clear clipboard"
+msgstr "Vider la mémoire tampon"

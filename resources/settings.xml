@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Nas settings">
+		<setting id="nasType" type="enum" values="Medion" label="Hipserv Nas Type"/>
+		<setting id="nasName" type="text" label="Your NAS name"/>
+		<setting id="userName" type="text" label="user name"/>
+		<setting id="password" type="text" label="Password" option="hidden"/>
+	</category>
+	<category label="Options">
+		<setting id="autorefresh" type="bool" label="Auto update library after paste" default="false"/>
+	</category>
+</settings>
